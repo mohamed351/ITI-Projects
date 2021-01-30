@@ -1,7 +1,7 @@
 # ITI-Projects
 1. [C#](https://github.com/shahendae/Guess-The-Word)
 2. [ASP.NET CORE](https://github.com/mohamed351/BookDownloaderProject-ASPDotNetCore)
-3. [linq and Entityframeworl](https://github.com/mohamed351/C-SimpleStoreApplication)
+3. [linq and Entityframework](https://github.com/mohamed351/C-SimpleStoreApplication)
 4. [ASP.NET MVC](https://github.com/mohamed351/AttendanceProject)
 5. [Angular and ASP.NET ](https://github.com/mohamed351/CafeteriaProject)
 6. [Bootstrap](https://github.com/mohamed351/Bootstrap4-Iti)
